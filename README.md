@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Parmar Siddharth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/dongls/dongls/master/coding.gif">
+<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/dongls/dongls/master/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siidddz&label=Profile%20views&color=0e75b6&style=flat" alt="siidddz" /> </p>
 
