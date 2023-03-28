@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Kapde.Me](kapde.studio)
+- 🔭 I’m currently working on [Kapde.Me]<a href="siddharthparmar.me">Visit</a>
 
 - 🌱 I’m currently learning **Python**
 
