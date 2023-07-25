@@ -14,10 +14,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Kapde.Me](kapde.studio)
-
-- 🤝 I’m looking for help with [Graphics Designer](kapde.studio)
-
 - 📫 How to reach me **siddharthsinhparmar17@gmail.com**
 
 - ⚡ Fun fact **I Love Watching Anime**
