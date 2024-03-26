@@ -66,18 +66,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-
-<img align="right" height="250" src="https://i.gifer.com/76j0.gif"  />
-
-###
-
 <p align="left">Tech Virtuoso: Mastering the Multiverse of Digital Wizardry.</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/siidddz/siidddz/output/snake.svg" alt="Snake animation" />
-
-###
