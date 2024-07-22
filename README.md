@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **siddharthsinhparmar17@gmail.com**
 
-- ⚡ Fun fact **I Love Watching Anime**
+- ⚡ Fun fact **I Love Watching Sitcome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
